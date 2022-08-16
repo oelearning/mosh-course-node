@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/oelearning/mosh-course-node#readme",
   "devDependencies": {
+    "nodemon": "2.0.19",
     "standard": "17.0.0"
   },
   "dependencies": {

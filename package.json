@@ -22,5 +22,8 @@
   },
   "dependencies": {
     "express": "4.18.1"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
   }
 }

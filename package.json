@@ -4,6 +4,7 @@
   "description": "This repo is to track my progress and upload all files that will be created during the Node.js course",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

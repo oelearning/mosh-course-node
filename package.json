@@ -1,0 +1,23 @@
+{
+  "name": "myfirst-api",
+  "version": "1.0.0",
+  "description": "This repo is to track my progress and upload all files that will be created during the Node.js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oelearning/mosh-course-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oelearning/mosh-course-node/issues"
+  },
+  "homepage": "https://github.com/oelearning/mosh-course-node#readme",
+  "devDependencies": {
+    "standard": "17.0.0"
+  }
+}
